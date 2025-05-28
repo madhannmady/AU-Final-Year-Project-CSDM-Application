@@ -1,6 +1,6 @@
-# 🚨 Emergency Alert System - Disaster & Women Safety App
+# 🚨 CrisisConnect - Crowed Sourced Disaster Management Application
 
-An intelligent safety application built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters and ensure women's safety. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
+An Crowed Sourced Disaster application built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters and ensure safety. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
 
 ---
 
@@ -65,7 +65,7 @@ An intelligent safety application built using **React**, **Map APIs**, and **bac
 
 ## 🔧 Tech Stack
 
-* **Frontend**: React, Tailwind CSS, Lucide Icons, Framer Motion
+* **Frontend**: React, Tailwind CSS, Lucide Icons
 * **Backend**: Node.js/Express (for alerts and authentication)
 * **APIs Used**:
 
@@ -114,16 +114,10 @@ npm start
 
 Developed by a passionate team of Computer Science final-year students as a capstone project for real-world impact.
 
-* UI/UX Design: \[Your Name]
-* Backend & APIs: \[Team Member 2]
-* Map & Data Integration: \[Team Member 3]
-* Safety Features & Chatbot: \[Team Member 4]
-
----
-
-## 📢 Contribution
-
-We welcome contributions to improve the app. Feel free to fork, raise issues or pull requests.
+* Mageshkannan U
+* Madhan kumar K
+* Jashwanth E M
+* Arun J
 
 ---
 
