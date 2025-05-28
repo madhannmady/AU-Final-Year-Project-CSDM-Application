@@ -110,12 +110,6 @@ Developed by a passionate team of Computer Science final-year students as a caps
 
 ---
 
-## 📢 Contribution
-
-We welcome contributions to improve the app. Feel free to fork, raise issues or pull requests.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
