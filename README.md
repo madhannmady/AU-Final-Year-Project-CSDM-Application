@@ -4,62 +4,57 @@ CrisisConnect built using **React**, **Map APIs**, and **backend integration** t
 
 ---
 
-## 🌟 Features
+🌟 Features
 
-### 🔥 Disaster Alert System
+🔥 Disaster Alert System
 
-* Live visualization of **natural disasters** (earthquakes, floods, wildfires, etc.) on a **map interface** using Ambee API.
-* Fetches **latest data** country-wise using `by-country-code` endpoint.
-* **Manual data refresh** to conserve API usage.
+Live visualization of natural disasters (earthquakes, floods, wildfires, etc.) on a map interface using Ambee API.
 
-### 🧭 Safe Route Mapping
+Fetches latest data country-wise using by-country-code endpoint.
 
-* Suggests the **safest routes** during emergencies using Mapbox or Google Maps API.
-* Real-time navigation and danger zone avoidance.
+Manual data refresh to conserve API usage.
 
-### 👩‍🦰 Women Safety
+🧭 Safe Route Mapping
 
-* One-click **SOS alert** to pre-defined contacts.
-* **Location sharing** and real-time tracking during travel.
-* Emergency alert message with user location.
+Suggests the safest routes during emergencies using Mapbox or Google Maps API.
 
-### ☁️ Weather Updates
+Real-time navigation and danger zone avoidance.
 
-* Integration with **WeatherAPI** to show weather conditions that might affect safety.
-* Simple weather dashboard with live updates.
+☁️ Weather Updates
 
-### 💬 Chatbot Support
+Integration with WeatherAPI to show weather conditions that might affect safety.
 
-* AI-powered **chatbot assistant** to answer emergency-related queries.
-* Guide users through safety protocols and features.
+Simple weather dashboard with live updates.
 
----
+💬 Chatbot Support
 
-## 📱 UI Overview
+AI-powered chatbot assistant to answer emergency-related queries.
 
-### 🔘 Home Page
+Guide users through safety protocols and features.
 
-* Dashboard with cards: Disaster Map, Weather, Safety Button, Chatbot.
-* Clean UI with Tailwind CSS and icons for better UX.
+📱 UI Overview
 
-### 🗺️ Disaster Map
+🔘 Home Page
 
-* Fullscreen map with **disaster markers** (type, time, location).
-* Toggle for disaster type (fire, flood, etc.).
+Dashboard with cards: Disaster Map, Weather, Safety Button, Chatbot.
 
-### 🚶 Safe Route
+Clean UI with Tailwind CSS and icons for better UX.
 
-* Form to input destination.
-* Displays safest path and highlights danger zones.
+🗺️ Disaster Map
 
-### 🛡️ Women Safety Page
+Fullscreen map with disaster markers (type, time, location).
 
-* Add emergency contacts.
-* SOS button with location tracker.
+Toggle for disaster type (fire, flood, etc.).
 
-### 🤖 Chatbot
+🚶 Safe Route
 
-* Popup chat with AI assistant for help and FAQs.
+Form to input destination.
+
+Displays safest path and highlights danger zones.
+
+🤖 Chatbot
+
+Popup chat with AI assistant for help and FAQs.
 
 ---
 
