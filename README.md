@@ -1,6 +1,6 @@
 # 🚨 CrisisConnect - Crowed Sourced Disaster Management Application
 
-An Crowed Sourced Disaster application built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters and ensure safety. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
+CrisisConnect built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters and ensure safety. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
 
 ---
 
