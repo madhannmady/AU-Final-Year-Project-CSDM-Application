@@ -1,66 +1,60 @@
-# 🚨 CrisisConnect - Crowed Sourced Disaster Management Application
+# 🚨 CrisisConnect - Disaster Safety App
 
-CrisisConnect built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters and ensure safety. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
+An intelligent safety application built using **React**, **Map APIs**, and **backend integration** to provide real-time alerts during disasters. The app visualizes live disaster data, routes to safety, and notifies nearby authorities or guardians.
 
 ---
 
-🌟 Features
+## 🌟 Features
 
-🔥 Disaster Alert System
+### 🔥 Disaster Alert System
 
-Live visualization of natural disasters (earthquakes, floods, wildfires, etc.) on a map interface using Ambee API.
+* Live visualization of **natural disasters** (earthquakes, floods, wildfires, etc.) on a **map interface** using Ambee API.
+* Fetches **latest data** country-wise using `by-country-code` endpoint.
+* **Manual data refresh** to conserve API usage.
 
-Fetches latest data country-wise using by-country-code endpoint.
+### 🧭 Safe Route Mapping
 
-Manual data refresh to conserve API usage.
+* Suggests the **safest routes** during emergencies using Mapbox or Google Maps API.
+* Real-time navigation and danger zone avoidance.
 
-🧭 Safe Route Mapping
+### ☁️ Weather Updates
 
-Suggests the safest routes during emergencies using Mapbox or Google Maps API.
+* Integration with **WeatherAPI** to show weather conditions that might affect safety.
+* Simple weather dashboard with live updates.
 
-Real-time navigation and danger zone avoidance.
+### 💬 Chatbot Support
 
-☁️ Weather Updates
+* AI-powered **chatbot assistant** to answer emergency-related queries.
+* Guide users through safety protocols and features.
 
-Integration with WeatherAPI to show weather conditions that might affect safety.
+---
 
-Simple weather dashboard with live updates.
+## 📱 UI Overview
 
-💬 Chatbot Support
+### 🔘 Home Page
 
-AI-powered chatbot assistant to answer emergency-related queries.
+* Dashboard with cards: Disaster Map, Weather, Safety Button, Chatbot.
+* Clean UI with Tailwind CSS and icons for better UX.
 
-Guide users through safety protocols and features.
+### 🗺️ Disaster Map
 
-📱 UI Overview
+* Fullscreen map with **disaster markers** (type, time, location).
+* Toggle for disaster type (fire, flood, etc.).
 
-🔘 Home Page
+### 🚶 Safe Route
 
-Dashboard with cards: Disaster Map, Weather, Safety Button, Chatbot.
+* Form to input destination.
+* Displays safest path and highlights danger zones.
 
-Clean UI with Tailwind CSS and icons for better UX.
+### 🤖 Chatbot
 
-🗺️ Disaster Map
-
-Fullscreen map with disaster markers (type, time, location).
-
-Toggle for disaster type (fire, flood, etc.).
-
-🚶 Safe Route
-
-Form to input destination.
-
-Displays safest path and highlights danger zones.
-
-🤖 Chatbot
-
-Popup chat with AI assistant for help and FAQs.
+* Popup chat with AI assistant for help and FAQs.
 
 ---
 
 ## 🔧 Tech Stack
 
-* **Frontend**: React, Tailwind CSS, Lucide Icons
+* **Frontend**: React, Tailwind CSS, Lucide Icons, Framer Motion
 * **Backend**: Node.js/Express (for alerts and authentication)
 * **APIs Used**:
 
@@ -113,6 +107,12 @@ Developed by a passionate team of Computer Science final-year students as a caps
 * Madhan kumar K
 * Jashwanth E M
 * Arun J
+
+---
+
+## 📢 Contribution
+
+We welcome contributions to improve the app. Feel free to fork, raise issues or pull requests.
 
 ---
 
